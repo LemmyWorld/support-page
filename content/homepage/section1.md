@@ -5,7 +5,7 @@ weight: 1
 ​​
 **PAGE LAST REVISED:** {{< commit-date >}}
 
-Greetings, fellow user! Let us help you find what you need and get started on Lemmy.World.
+Greetings, fellow user! Let us find you the help you need on Lemmy.World.
 
 ## Getting Started on Lemmy.World
 
