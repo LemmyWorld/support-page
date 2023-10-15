@@ -3,15 +3,16 @@ title: "User Support Center"
 weight: 1
 ---
 ​​
-Support Info Here
+**PAGE LAST REVISED:** {{< commit-date >}}
 
-**LAST REVISED:** {{< commit-date >}}
+Greetings, fellow user! Let us help you find what you need and get started on Lemmy.World.
 
-<details>
-  <summary>SOME RULE</summary>
+## Getting Started on Lemmy.World
 
-> This is a quote
->
-> - So DO this thing
+## I Lost Access to my Lemmy.World Account
 
-</details>
+## Finding Communities on Lemmy.World
+
+## List of Helpful Communities
+
+## Frequently Asked Questions
