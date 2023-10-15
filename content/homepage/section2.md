@@ -5,12 +5,12 @@ weight: 2
 
 Let us help you grow, manage and maintain an amazing community on Lemmy.World. 
 
-## *(Moderator Support)* Getting started as a moderator
+## Getting Started as a Moderator
 
-## *(Moderator Support)* Moderation Tools on Lemmy.World
+## Moderation Tools on Lemmy.World
 
-## *(Moderator Support)* Community Management
+## Community Management
 
-## *(Moderator Support)* Community Engagement
+## Community Engagement
 
-## *(Moderator Support)* More Resources & Advice from Admins
+## More Resources & Advice from Admins
