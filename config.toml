@@ -1,6 +1,6 @@
 baseURL = 'https://support.lemmy.world/'
 languageCode = 'en-us'
-title = 'Lemmy World Moderator Support'
+title = 'Lemmy.World Support Center'
 
 
 # This is a "one page"-website, so we do not need these kinds of pages...
