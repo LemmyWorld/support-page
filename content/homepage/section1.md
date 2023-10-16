@@ -1,6 +1,6 @@
 ---
 title: "User Support Center"
-weight: 1
+weight: 2
 ---
 ​​
 **PAGE LAST REVISED:** {{< commit-date >}}

@@ -1,9 +1,9 @@
 ---
 title: "Moderator Support Center"
-weight: 2
+weight: 3
 ---
 
-Let us help you grow, manage and maintain an amazing community on Lemmy.World. 
+Let us help you grow, manage and maintain an amazing community on Lemmy.World.
 
 ## Getting Started as a Moderator
 
