@@ -1,6 +1,7 @@
 ---
 title: "Intro"
 weight: 1
+header_menu: true
 ---
 # Welcome
 
