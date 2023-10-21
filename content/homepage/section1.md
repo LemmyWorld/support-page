@@ -1,5 +1,5 @@
 ---
-title: "User Support Center"
+title: "User Support"
 weight: 2
 ---
 ​​
@@ -14,3 +14,4 @@ Greetings, fellow user! Let us find you the help you need on Lemmy.World.
 ## List of Helpful Communities
 
 ## Frequently Asked Questions
+
