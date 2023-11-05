@@ -6,10 +6,10 @@ tasks:
     - python3 -m pip install --upgrade pip
     - sudo apt install hugo git -y
     - pip install --no-input pre-commit mdformat-gfm mdformat-frontmatter
-    - pre-commit install
+    # - pre-commit install
   default:
     cmds:
-      - mdformat content
+      # - mdformat content
       - git submodule update --init --recursive --remote
       - hugo server -D --disableFastRender --enableGitInfo
     silent: false
