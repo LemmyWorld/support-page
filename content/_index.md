@@ -1,18 +1,17 @@
 ---
-title: "Intro"
+title: Intro
 ---
 
 # Welcome to Lemmy.World
 
 # TLDR
+
 - Lemmy is like Reddit but decentralized
   - Lemmy "instances" (or servers) host subreddits (called communities)
     - They also provide users a home for their account
   - They're all connected to each other through [ActivityPub](https://activitypub.rocks/)
   - You can post to OTHER servers from your HOME server with ONE account
   -
-
-
 
 # About Lemmy
 
@@ -35,8 +34,6 @@ You will be notified (if you wish) of comments on your remote posts
 You can follow Lemmy users/communities on other platforms that also use Activitypub (like Mastodon, Calckey etc) (There’s currently a known issue with that, see [here](https://lemmy.world/post/15786)
 
 Please note that a server only starts indexing a server/community once it has been interacted with by a user of this server.
-
-
 
 # About Lemmy.world
 
@@ -73,18 +70,19 @@ It will open up the following page:
 ![](https://lemmy.world/pictrs/image/b03c9fb1-69ba-43b5-985f-97c3820e146a.png)
 
 Here you can fill out:
-| Field  | Notes  |
-|---|---|
-|  Name | should be all lowercase letters. This will be the /c/  |
-|Display name|As to be expected, this will be the displayed name.|
-|Icon|Icon for your community
-|
-|Banner| Banner for your community |
-|Sidebar|The sidebar should contain things like description, rules, links etc. You can use Markdown (yey!)|
-|NSFW|If the community will contain mainly NSFW content, check the NSFW mark. NSFW is allowed as long as it doesn’t break [the rules](https://legal.lemmy.world)|
-|Only Moderators...|If you only want moderators to be able to post, check that checkbox.
-|
-|Language|Select any language you want people to be able to post in. You shouldn’t de-select ‘Undetermined’.
+
+| Field              | Notes                                                                                                                                                      |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Name               | should be all lowercase letters. This will be the /c/                                                                                                      |
+| Display name       | As to be expected, this will be the displayed name.                                                                                                        |
+| Icon               | Icon for your community                                                                                                                                    |
+|                    |                                                                                                                                                            |
+| Banner             | Banner for your community                                                                                                                                  |
+| Sidebar            | The sidebar should contain things like description, rules, links etc. You can use Markdown (yey!)                                                          |
+| NSFW               | If the community will contain mainly NSFW content, check the NSFW mark. NSFW is allowed as long as it doesn’t break [the rules](https://legal.lemmy.world) |
+| Only Moderators... | If you only want moderators to be able to post, check that checkbox.                                                                                       |
+|                    |                                                                                                                                                            |
+| Language           | Select any language you want people to be able to post in. You shouldn’t de-select ‘Undetermined’.                                                         |
 
 ## Reading
 
@@ -98,15 +96,14 @@ When viewing a community, you can create a new post in it. First of all make sur
 
 In the Create Post page these are the fields:
 
-| Field |Notes|
-|---|---|
-|URL|Here you can paste a link (or add a photo) which will be shown at the top of the post. Also the thumbnail of the post will link there.
-|Title|The title of the post.|
-|Body|Here you can type your post. You can use Markdown if you want.|
-|Community|select the community where you want this post created, defaults to the community you were in when you clicked ‘create post’|
-|NSFW|Select this if you post any NSFW material, this blurs the thumbnail and displays ‘NSFW’ behind the post title.|
-|Language|Specify in which language your post is.|
-
+| Field     | Notes                                                                                                                                  |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| URL       | Here you can paste a link (or add a photo) which will be shown at the top of the post. Also the thumbnail of the post will link there. |
+| Title     | The title of the post.                                                                                                                 |
+| Body      | Here you can type your post. You can use Markdown if you want.                                                                         |
+| Community | select the community where you want this post created, defaults to the community you were in when you clicked ‘create post’            |
+| NSFW      | Select this if you post any NSFW material, this blurs the thumbnail and displays ‘NSFW’ behind the post title.                         |
+| Language  | Specify in which language your post is.                                                                                                |
 
 Also see the [Lemmy documentation](https://join-lemmy.org/docs/en/users/02-media.html) on formatting etc.
 

@@ -3,16 +3,13 @@
 version: '3'
 tasks:
   pre-reqs:
+    - python3 -m pip install --upgrade pip
     - sudo apt install hugo git -y
+    - pip install --no-input pre-commit mdformat-gfm mdformat-frontmatter
+    - pre-commit install
   default:
     cmds:
+      - mdformat content
       - git submodule update --init --recursive --remote
       - hugo server -D --disableFastRender --enableGitInfo
     silent: false
-  commit:
-    cmds:
-    - mdformat content
-  remove_hooks:
-    - pre-commit uninstall
-    - pre-commit clean
-    - rm .git/hooks -rf

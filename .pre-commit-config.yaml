@@ -6,6 +6,6 @@ repos:
     name: Commit
     stages: [commit]
     language: system
-    entry: task commit
+    entry: mdformat content
     pass_filenames: false
     verbose: false

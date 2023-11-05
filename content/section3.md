@@ -1,7 +1,8 @@
 ---
-title: "Donations & Infra Info"
+title: Donations & Infra Info
 weight: 4
 ---
+
 ## Donations & Finances
 
 Lemmy.World is run by [@Ruud](https://lemmy.world/u/ruud), who also pays the bills.
@@ -21,14 +22,14 @@ The running costs of Lemmy.World currently consist of:
 - CloudFlare CDN (Need to switch to paid plan)
 - Monthly updates about the finances can be found at our blog
 
----
+______________________________________________________________________
 
 ## Status / Uptime
 
 You can view our status and uptime from this site, a service provided by [@Jelloeater](https://lemmy.world/u/jelloeater85).
 General Fediverse information can be viewed at [this site](http://lemmy-status.org).
 
----
+______________________________________________________________________
 
 ## Instance Images
 
