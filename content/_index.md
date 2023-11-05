@@ -35,7 +35,6 @@ Lemmy_World
   lemdrio_id
 {{< /mermaid >}}
 
-
 ## About Lemmy
 
 Lemmy is a federated platform for news aggregation / discussion. It’s being developed by the Lemmy devs: [https://github.com/LemmyNet](https://github.com/LemmyNet)
