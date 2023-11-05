@@ -23,7 +23,7 @@ showLineNumbers = false
 
 otherSearchableFields = ["Tags", "Categories", "CustomField"] # As they appear in frontmatter
 
-ga_analytics = 'G-THGRQDQMRW'
+ga_analytics = 'G-RM02R37938'
 
 # Defaults to true if not set
 # Enable copyRight Footer Stamp. Takes in attribution
@@ -48,4 +48,4 @@ enable = false # if false search will default to fusejs
   name = "GitHub"
   iconLight = "images/GitHubMarkLight.svg"
   iconDark = "images/GitHubMarkDark.svg"
-  url = "https://github.com/LemmyWorld/legal-page/releases"
+  url = "https://github.com/LemmyWorld/support-page/commits/main"

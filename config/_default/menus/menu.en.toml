@@ -1,15 +1,9 @@
 #  menu items
 
-
 [[main]]
-  name = "Support"
-  weight = 1
-  url = "https://support.lemmy.world"
-
-[[main]]
-  name = "Linkedin"
+  name = "Legal"
   weight = 2
-  url = "https://www.linkedin.com/company/lemmyworld/"
+  url = "https://legal.lemmy.world"
 
 [[main]]
   name = "Team"

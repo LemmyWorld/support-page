@@ -4,16 +4,39 @@ title: Intro
 
 # Welcome to Lemmy.World
 
-# TLDR
+## TLDR
 
 - Lemmy is like Reddit but decentralized
-  - Lemmy "instances" (or servers) host subreddits (called communities)
+  - Lemmy ["instances" (or servers)](https://lemmyverse.net/) host subreddits ([called communities](https://lemmyverse.net/communities))
     - They also provide users a home for their account
-  - They're all connected to each other through [ActivityPub](https://activitypub.rocks/)
+  - They're all [connected](https://lemmymap.feddit.de/) to each other through [ActivityPub](https://activitypub.rocks/)
   - You can post to OTHER servers from your HOME server with ONE account
-  -
 
-# About Lemmy
+{{< mermaid >}}
+mindmap
+Lemmy_World
+  Sh_Just_Works
+  hexbear_net
+  lemmy_ca
+  lemmynsfw_com
+  Lemmy_ee
+  lemmy_ml
+  Feddit_de
+  Lemmy_ca
+  Programming_dev
+  dbzer0_com
+  blahaj_zone
+  sdf_org
+  midwest_social
+  lemmy_zip
+  startrek_website
+  slrpnk_net
+  lemmings_world
+  lemdrio_id
+{{< /mermaid >}}
+
+
+## About Lemmy
 
 Lemmy is a federated platform for news aggregation / discussion. It’s being developed by the Lemmy devs: [https://github.com/LemmyNet](https://github.com/LemmyNet)
 

@@ -5,6 +5,8 @@ weight: 4
 
 ## Donations & Finances
 
+[![Open Collective backers and sponsors](https://img.shields.io/opencollective/all/mastodonworld?style=flat-square&logo=opencollective&color=7FADF2)](https://opencollective.com/mastodonworld)
+
 Lemmy.World is run by [@Ruud](https://lemmy.world/u/ruud), who also pays the bills.
 
 Since the June 2023 user influx, those bills have gone up quite steeply.
