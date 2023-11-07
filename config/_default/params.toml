@@ -41,8 +41,8 @@ enable = false # if false search will default to fusejs
 
 # Site logo
 [logo]
-  lightMode = "images/favicon/favicon.ico"
-  darkMode = "images/favicon/favicon.ico"
+  lightMode = "images/favicon.png"
+  darkMode = "images/favicon.png"
 
 [source]
   name = "GitHub"
