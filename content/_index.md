@@ -11,5 +11,6 @@ title: Welcome to Lemmy.World
 - You can post to OTHER servers from your HOME server with ONE account
 - Instances (normally) vouch that others are safe though [Fediseer](https://gui.fediseer.com/instances/safelisted)
 - Please see additional documentation in the sidebar to learn more 💗
+- Please follow the [rules listed here](https://legal.lemmy.world/fair-use/#rules-for-users)
 
 {{< fedimap >}}
